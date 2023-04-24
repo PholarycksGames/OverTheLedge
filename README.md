@@ -22,6 +22,8 @@ The game is played using the following controls:
 - The player earns points for each successful knock-off. <br>
 - The player with the most points at the end of the game wins. <br>
 
+[Try it now!](https://stycks59.itch.io/push)
+
 ## Credits
 
 This game was created by Raphael Suliman. It was built using Unity Engine.
