@@ -1,11 +1,11 @@
+# Over The Ledge
+![image](https://user-images.githubusercontent.com/67747529/234122453-765ebd33-ba60-4b3b-aa84-aef1fd2c3c75.png)
+
 ## Development Update
 - Camera following the player
 - Player movements and rotation
 
-# Over The Ledge
-![image](https://user-images.githubusercontent.com/67747529/234122453-765ebd33-ba60-4b3b-aa84-aef1fd2c3c75.png)
-
-Overview
+## Overview
 
 This is a 1on1 game, where each player can throw a ball, generate shield, dash and run. <br>
 The player's goal is to knock their opponent off a central platform using their abilities.
